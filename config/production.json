@@ -1,0 +1,10 @@
+{
+
+
+    "name":"product api production",
+
+    "mail":{
+
+        "host":"prod-mail-server"
+    }
+}
